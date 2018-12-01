@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 863feb2b70ed53d43a8bb5d4fab8fa67
+timeCreated: 1465485295
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Lava platformer_0
+    21300002: Lava platformer_1
+    21300004: Lava platformer_2
+    21300006: Lava platformer_3
+    21300008: Lava platformer_4
+    21300010: Lava platformer_5
+    21300012: Lava platformer_6
+    21300014: Lava platformer_7
+    21300016: Lava platformer_8
+    21300018: Lava platformer_9
+    21300020: Lava platformer_10
+    21300022: Lava platformer_11
+    21300024: Lava platformer_12
+    21300026: Lava platformer_13
+    21300028: Lava platformer_14
+    21300030: Lava platformer_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Lava platformer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 45.5}
+        - {x: -45, y: 41.5}
+        - {x: -45, y: -14.5}
+        - {x: -44, y: -16.5}
+        - {x: -32, y: -34.5}
+        - {x: -6, y: -45.5}
+        - {x: 45, y: -45.5}
+        - {x: 45, y: 45.5}
+    - name: Lava platformer_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 314
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 45.5}
+        - {x: -44.5, y: -45.5}
+        - {x: 44.5, y: -45.5}
+        - {x: 44.5, y: 45.5}
+    - name: Lava platformer_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 316
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 45.5}
+        - {x: -45, y: -45.5}
+        - {x: 20, y: -45.5}
+        - {x: 45, y: -34.5}
+        - {x: 45, y: 44.5}
+        - {x: 43, y: 45.5}
+    - name: Lava platformer_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 208
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 44.5}
+        - {x: -44, y: -44.5}
+        - {x: 44, y: -44.5}
+        - {x: 44, y: 44.5}
+    - name: Lava platformer_4
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 209
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 44.5}
+        - {x: -44, y: -44.5}
+        - {x: 44, y: -44.5}
+        - {x: 44, y: 44.5}
+    - name: Lava platformer_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 212
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 44.5}
+        - {x: -44, y: -44.5}
+        - {x: 44, y: -44.5}
+        - {x: 44, y: 4.5}
+        - {x: -35, y: 44.5}
+    - name: Lava platformer_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 267
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 22}
+        - {x: -44, y: -20}
+        - {x: -44, y: -22}
+        - {x: 44, y: -22}
+        - {x: 44, y: 22}
+    - name: Lava platformer_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 209
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 22}
+        - {x: -44, y: -22}
+        - {x: 44, y: -22}
+        - {x: 44, y: -19}
+        - {x: -38, y: 22}
+    - name: Lava platformer_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 106
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 44.5}
+        - {x: -44, y: -44.5}
+        - {x: 44, y: -44.5}
+        - {x: 44, y: 44.5}
+    - name: Lava platformer_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 105
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 44.5}
+        - {x: -44, y: -44.5}
+        - {x: 44, y: -44.5}
+        - {x: 44, y: 44.5}
+    - name: Lava platformer_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 107
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 44.5}
+        - {x: -45, y: -44.5}
+        - {x: 45, y: -44.5}
+        - {x: 45, y: 43.5}
+        - {x: 43, y: 44.5}
+    - name: Lava platformer_11
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 104
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 44.5}
+        - {x: -45, y: -41.5}
+        - {x: -38, y: -44.5}
+        - {x: 45, y: -44.5}
+        - {x: 45, y: 44.5}
+    - name: Lava platformer_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 45}
+        - {x: -44, y: 3}
+        - {x: -44, y: -45}
+        - {x: 44, y: -45}
+        - {x: 44, y: 45}
+    - name: Lava platformer_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 44.5}
+        - {x: -44, y: -44.5}
+        - {x: 44, y: -44.5}
+        - {x: 44, y: 44.5}
+    - name: Lava platformer_14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 44.5}
+        - {x: -44.5, y: -44.5}
+        - {x: 44.5, y: -44.5}
+        - {x: 44.5, y: 44.5}
+    - name: Lava platformer_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 44.5}
+        - {x: -45, y: 39.5}
+        - {x: -45, y: -44.5}
+        - {x: 45, y: -44.5}
+        - {x: 45, y: 44.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

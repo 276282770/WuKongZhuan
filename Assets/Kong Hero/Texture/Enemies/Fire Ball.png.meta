@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 3dba02b06ba2b1c4ba5f2aed2cfa2bfe
+timeCreated: 1465459914
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1
+    21300002: 2
+    21300004: 3
+    21300006: 4
+    21300008: 8
+    21300010: 6
+    21300012: 7
+    21300014: 5
+    21300016: shutterstock_371527324 [Converted]_0
+    21300018: shutterstock_371527324 [Converted]_1
+    21300020: shutterstock_371527324 [Converted]_2
+    21300022: shutterstock_371527324 [Converted]_3
+    21300024: shutterstock_371527324 [Converted]_4
+    21300026: shutterstock_371527324 [Converted]_5
+    21300028: shutterstock_371527324 [Converted]_6
+    21300030: Fire Ball_0
+    21300032: Fire Ball_1
+    21300034: Fire Ball_2
+    21300036: Fire Ball_3
+    21300038: Fire Ball_4
+    21300040: Fire Ball_5
+    21300042: Fire Ball_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Fire Ball_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 161
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -5}
+        - {x: -30, y: -16}
+        - {x: -30, y: -119}
+        - {x: -23, y: -154}
+        - {x: 14, y: -154}
+        - {x: 29, y: -99}
+        - {x: 29, y: -12}
+        - {x: 20, y: -5}
+    - name: Fire Ball_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 161
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -6}
+        - {x: -29, y: -27}
+        - {x: -29, y: -77}
+        - {x: -24, y: -127}
+        - {x: -20, y: -139}
+        - {x: -10, y: -161}
+        - {x: 6, y: -161}
+        - {x: 28, y: -141}
+        - {x: 28, y: -6}
+    - name: Fire Ball_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 60
+        height: 161
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -153}
+        - {x: -7, y: -157}
+        - {x: -7, y: -159}
+        - {x: -5, y: -161}
+        - {x: 2, y: -161}
+        - {x: 3, y: -159}
+        - {x: 3, y: -156}
+        - {x: 0, y: -153}
+      - - {x: -16, y: -1}
+        - {x: -30, y: -14}
+        - {x: -30, y: -101}
+        - {x: -16, y: -141}
+        - {x: 17, y: -141}
+        - {x: 22, y: -138}
+        - {x: 29, y: -89}
+        - {x: 29, y: -19}
+        - {x: 11, y: -1}
+    - name: Fire Ball_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 60
+        height: 161
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -4}
+        - {x: -29, y: -15}
+        - {x: -29, y: -128}
+        - {x: -20, y: -146}
+        - {x: 15, y: -146}
+        - {x: 29, y: -134}
+        - {x: 29, y: -5}
+        - {x: 26, y: -4}
+    - name: Fire Ball_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 60
+        height: 161
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -120}
+        - {x: -4, y: -121}
+        - {x: -2, y: -123}
+        - {x: 1, y: -123}
+        - {x: 6, y: -120}
+        - {x: 17, y: -110}
+        - {x: 29, y: -89}
+        - {x: 29, y: -8}
+        - {x: 24, y: -4}
+        - {x: -28, y: -4}
+        - {x: -29, y: -8}
+        - {x: -29, y: -121}
+        - {x: -10, y: -137}
+        - {x: 0, y: -137}
+        - {x: 6, y: -132}
+        - {x: 4, y: -125}
+        - {x: 2, y: -123}
+        - {x: -3, y: -124}
+    - name: Fire Ball_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 60
+        height: 161
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -5}
+        - {x: -30, y: -10}
+        - {x: -30, y: -114}
+        - {x: -24, y: -144}
+        - {x: -1, y: -144}
+        - {x: 30, y: -121}
+        - {x: 30, y: -26}
+        - {x: 26, y: -5}
+    - name: Fire Ball_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 60
+        height: 161
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: -136}
+        - {x: -7, y: -140}
+        - {x: -7, y: -142}
+        - {x: -3, y: -147}
+        - {x: -1, y: -147}
+        - {x: 1, y: -145}
+        - {x: 1, y: -138}
+        - {x: -1, y: -136}
+      - - {x: -15, y: -4}
+        - {x: -29, y: -18}
+        - {x: -29, y: -54}
+        - {x: -20, y: -118}
+        - {x: -10, y: -131}
+        - {x: -7, y: -132}
+        - {x: 18, y: -132}
+        - {x: 28, y: -127}
+        - {x: 28, y: -4}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

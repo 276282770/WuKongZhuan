@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: ad6525aa00c3742449a7fa3ae53662d3
+timeCreated: 1463550894
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Walk_0
+    21300002: Walk_1
+    21300004: Walk_2
+    21300006: Walk_3
+    21300008: Walk_4
+    21300010: Walk_5
+    21300012: Walk_6
+    21300014: Walk_7
+    21300016: Walk_8
+    21300018: Walk_9
+    21300020: Walk_10
+    21300022: Walk_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 149
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 110}
+        - {x: -74.5, y: 38}
+        - {x: -71.5, y: 16}
+        - {x: -31.5, y: 0}
+        - {x: 57.5, y: 0}
+        - {x: 74.5, y: 20}
+        - {x: 74.5, y: 43}
+        - {x: 55.5, y: 110}
+    - name: Walk_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 261
+        width: 151
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 111}
+        - {x: -59.5, y: 111}
+        - {x: -75.5, y: 108}
+        - {x: -75.5, y: 88}
+        - {x: -54.5, y: 23}
+        - {x: -12.5, y: 0}
+        - {x: 59.5, y: 0}
+        - {x: 75.5, y: 18}
+        - {x: 75.5, y: 44}
+        - {x: 58.5, y: 76}
+    - name: Walk_2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 260
+        width: 149
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 113}
+        - {x: -74.5, y: 85}
+        - {x: -61.5, y: 50}
+        - {x: -40.5, y: 51}
+        - {x: -35.5, y: 58}
+        - {x: -20.5, y: 21}
+        - {x: -10.5, y: 0}
+        - {x: 25.5, y: 0}
+        - {x: 74.5, y: 21}
+        - {x: 74.5, y: 50}
+        - {x: 69.5, y: 59}
+        - {x: 37.5, y: 113}
+    - name: Walk_3
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 261
+        width: 150
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 0}
+        - {x: 64, y: 0}
+        - {x: 75, y: 4}
+        - {x: 75, y: 61}
+        - {x: 37, y: 112}
+        - {x: -57, y: 112}
+        - {x: -75, y: 109}
+        - {x: -75, y: 35}
+    - name: Walk_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 150
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: 112}
+        - {x: -55, y: 112}
+        - {x: -75, y: 107}
+        - {x: -75, y: 53}
+        - {x: -30, y: 0}
+        - {x: 61, y: 0}
+        - {x: 74, y: 25}
+        - {x: 75, y: 27}
+        - {x: 75, y: 47}
+    - name: Walk_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 128
+        width: 151
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75.5, y: 29}
+        - {x: 75.5, y: 50}
+        - {x: 61.5, y: 113}
+        - {x: -75.5, y: 113}
+        - {x: -75.5, y: 69}
+        - {x: -69.5, y: 46}
+        - {x: -47.5, y: 0}
+        - {x: 32.5, y: 0}
+        - {x: 35.5, y: 10}
+        - {x: 34.5, y: 25}
+        - {x: 65.5, y: 26}
+    - name: Walk_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 132
+        width: 149
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.5, y: 26}
+        - {x: 74.5, y: 46}
+        - {x: 51.5, y: 110}
+        - {x: -74.5, y: 110}
+        - {x: -74.5, y: 71}
+        - {x: -61.5, y: 43}
+        - {x: -27.5, y: 1}
+        - {x: -22.5, y: 0}
+        - {x: 35.5, y: 0}
+        - {x: 41.5, y: 15}
+        - {x: 40.5, y: 23}
+        - {x: 64.5, y: 23}
+    - name: Walk_7
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 132
+        width: 150
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 110}
+        - {x: -73, y: 110}
+        - {x: -75, y: 107}
+        - {x: -75, y: 92}
+        - {x: -69, y: 87}
+        - {x: -51, y: 51}
+        - {x: -42, y: 49}
+        - {x: -38, y: 55}
+        - {x: -24, y: 16}
+        - {x: -10, y: 0}
+        - {x: 36, y: 0}
+        - {x: 41, y: 6}
+        - {x: 75, y: 12}
+        - {x: 75, y: 68}
+    - name: Walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 149
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 109}
+        - {x: -74.5, y: 74}
+        - {x: -46.5, y: 41}
+        - {x: -12.5, y: 0}
+        - {x: 48.5, y: 0}
+        - {x: 74.5, y: 11}
+        - {x: 74.5, y: 55}
+        - {x: 47.5, y: 109}
+    - name: Walk_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 150
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 109}
+        - {x: -75, y: 84}
+        - {x: -56, y: 51}
+        - {x: -41, y: 47}
+        - {x: -35, y: 59}
+        - {x: -27, y: 31}
+        - {x: -11, y: 0}
+        - {x: 75, y: 0}
+        - {x: 75, y: 109}
+    - name: Walk_10
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1
+        width: 150
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 109}
+        - {x: -75, y: 109}
+        - {x: -75, y: 89}
+        - {x: -71, y: 87}
+        - {x: -52, y: 51}
+        - {x: -41, y: 49}
+        - {x: -37, y: 9}
+        - {x: -14, y: 0}
+        - {x: 61, y: 0}
+        - {x: 75, y: 9}
+        - {x: 75, y: 57}
+        - {x: 66, y: 73}
+    - name: Walk_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 5
+        width: 150
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 108}
+        - {x: -75, y: 87}
+        - {x: -60, y: 50}
+        - {x: -41, y: 48}
+        - {x: -36, y: 53}
+        - {x: -26, y: 0}
+        - {x: 70, y: 0}
+        - {x: 75, y: 2}
+        - {x: 75, y: 57}
+        - {x: 46, y: 107}
+        - {x: 39, y: 108}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3 @@
+MaxHealth = 200
+FoodValue = 20
+Inertia	= 0.15

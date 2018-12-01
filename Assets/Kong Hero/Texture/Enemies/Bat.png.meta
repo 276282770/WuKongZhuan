@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: ded912508810c42438616c9fe6bb7bc5
+timeCreated: 1465112191
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bat_0
+    21300002: Bat_1
+    21300004: Bat_2
+    21300006: Bat_3
+    21300008: Bat_4
+    21300010: Bat_5
+    21300012: Bat_6
+    21300014: Bat_7
+    21300016: Bat_8
+    21300018: Bat_9
+    21300020: Bat_10
+    21300022: Bat_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bat_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 273
+        width: 98
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 65}
+        - {x: -49, y: 30}
+        - {x: -45, y: 4}
+        - {x: -35, y: 0}
+        - {x: 21, y: 0}
+        - {x: 22, y: 2}
+        - {x: 49, y: 37}
+        - {x: 49, y: 65}
+    - name: Bat_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 276
+        width: 111
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 59}
+        - {x: 16.5, y: 55}
+        - {x: 17.5, y: 52}
+        - {x: -23.5, y: 58}
+        - {x: -51.5, y: 57}
+        - {x: -55.5, y: 53}
+        - {x: -55.5, y: 11}
+        - {x: -35.5, y: 0}
+        - {x: 42.5, y: 0}
+        - {x: 52.5, y: 16}
+        - {x: 55.5, y: 33}
+        - {x: 55.5, y: 59}
+    - name: Bat_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 283
+        width: 84
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 45}
+        - {x: -36, y: 45}
+        - {x: -42, y: 38}
+        - {x: -42, y: 1}
+        - {x: -41, y: 0}
+        - {x: 42, y: 0}
+    - name: Bat_3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 277
+        width: 80
+        height: 57
+      alignment: 9
+      pivot: {x: 0.53543967, y: 0.2273822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.164825, y: 11.039215}
+        - {x: 23.164825, y: 44.039215}
+        - {x: -31.835175, y: 44.039215}
+        - {x: -42.835175, y: 25.039215}
+        - {x: -42.835175, y: -7.960785}
+        - {x: -38.835175, y: -12.960785}
+        - {x: 37.164825, y: -12.960785}
+    - name: Bat_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 187
+        width: 67
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5544063, y: 0.2700165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.14522, y: 43.79901}
+        - {x: -37.14522, y: 36.79901}
+        - {x: -37.14522, y: -9.200989}
+        - {x: -35.14522, y: -15.200989}
+        - {x: -30.145222, y: -16.200989}
+        - {x: 29.854778, y: -16.200989}
+        - {x: 29.854778, y: 40.79901}
+        - {x: 22.854778, y: 43.79901}
+    - name: Bat_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 194
+        width: 84
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 45}
+        - {x: -42, y: 44}
+        - {x: -42, y: 0}
+        - {x: 42, y: 0}
+        - {x: 42, y: 42}
+        - {x: 31, y: 45}
+    - name: Bat_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 187
+        width: 111
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.5, y: 57}
+        - {x: 50.5, y: 60}
+        - {x: 25.5, y: 60}
+        - {x: 17.5, y: 57}
+        - {x: 14.5, y: 51}
+        - {x: -21.5, y: 45}
+        - {x: -23.5, y: 43}
+        - {x: -25.5, y: 55}
+        - {x: -46.5, y: 57}
+        - {x: -55.5, y: 57}
+        - {x: -55.5, y: 25}
+        - {x: -46.5, y: 0}
+        - {x: 9.5, y: 0}
+        - {x: 15.5, y: 4}
+        - {x: 43.5, y: 25}
+        - {x: 55.5, y: 46}
+    - name: Bat_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 184
+        width: 98
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 66}
+        - {x: -49, y: 66}
+        - {x: -49, y: 29}
+        - {x: -45, y: 7}
+        - {x: -33, y: 0}
+        - {x: 23, y: 0}
+        - {x: 48, y: 33}
+        - {x: 49, y: 41}
+        - {x: 49, y: 64}
+    - name: Bat_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 110
+        height: 60
+      alignment: 9
+      pivot: {x: 0.52945745, y: 0.00000012715658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.24032, y: 59.999992}
+        - {x: -58.24032, y: 34.999992}
+        - {x: -38.24032, y: -0.0000076293945}
+        - {x: 9.759682, y: -0.0000076293945}
+        - {x: 16.759682, y: 0.9999924}
+        - {x: 39.75968, y: 24.999992}
+        - {x: 51.75968, y: 45.999992}
+        - {x: 51.75968, y: 59.999992}
+    - name: Bat_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 37
+        width: 77
+        height: 92
+      alignment: 9
+      pivot: {x: 0.66131455, y: 0.3081827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.921219, y: 63.647194}
+        - {x: -50.92122, y: 30.647194}
+        - {x: -50.92122, y: -28.352806}
+        - {x: -24.921219, y: -28.352806}
+        - {x: 6.078781, y: -12.352806}
+        - {x: 26.078781, y: 36.647194}
+        - {x: 26.078781, y: 63.647194}
+    - name: Bat_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 24
+        width: 69
+        height: 76
+      alignment: 9
+      pivot: {x: 0.6372853, y: 0.02403824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9726868, y: 50.173096}
+        - {x: -18.972687, y: 74.173096}
+        - {x: -25.972687, y: 74.173096}
+        - {x: -38.972687, y: 68.173096}
+        - {x: -43.972687, y: 63.173096}
+        - {x: -43.972687, y: 29.173096}
+        - {x: -37.972687, y: 7.1730957}
+        - {x: -24.972687, y: -1.8269043}
+        - {x: 10.027313, y: -1.8269043}
+        - {x: 25.027313, y: 9.173096}
+        - {x: 25.027313, y: 32.173096}
+    - name: Bat_11
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 0
+        width: 85
+        height: 49
+      alignment: 9
+      pivot: {x: 0.6765973, y: 0.012013232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.489227, y: 48.411354}
+        - {x: -57.510773, y: 48.411354}
+        - {x: -57.510773, y: 12.411352}
+        - {x: -34.510773, y: -0.58864784}
+        - {x: 17.489227, y: -0.58864784}
+        - {x: 21.489227, y: 0.41135216}
+        - {x: 27.489227, y: 11.411352}
+        - {x: 27.489227, y: 40.411354}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

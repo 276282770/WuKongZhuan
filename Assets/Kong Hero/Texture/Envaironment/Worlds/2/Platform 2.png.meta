@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 5057bf15a7824784db890fcaa908d6cf
+timeCreated: 1465056161
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Platform 2_0
+    21300002: Platform 2_1
+    21300004: Platform 2_2
+    21300006: Platform 2_3
+    21300008: Platform 2_4
+    21300010: Platform 2_5
+    21300012: Platform 2_6
+    21300014: Platform 2_7
+    21300016: Platform 2_8
+    21300018: Platform 2_9
+    21300020: Platform 2_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Platform 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 45}
+        - {x: -44.5, y: -14}
+        - {x: -20.5, y: -45}
+        - {x: 44.5, y: -45}
+        - {x: 44.5, y: 45}
+    - name: Platform 2_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 350
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 45}
+        - {x: -44, y: -45}
+        - {x: 44, y: -45}
+        - {x: 44, y: 45}
+    - name: Platform 2_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 350
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 45}
+        - {x: -44.5, y: -45}
+        - {x: 15.5, y: -45}
+        - {x: 44.5, y: -13}
+        - {x: 44.5, y: 41}
+        - {x: 40.5, y: 45}
+    - name: Platform 2_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 227
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 45}
+        - {x: -45, y: 44}
+        - {x: -45, y: -27}
+        - {x: -40, y: -45}
+        - {x: 45, y: -45}
+        - {x: 45, y: 45}
+    - name: Platform 2_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 228
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 44.5}
+        - {x: -44, y: -44.5}
+        - {x: 44, y: -44.5}
+        - {x: 44, y: 44.5}
+    - name: Platform 2_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 229
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 45}
+        - {x: -44.5, y: -45}
+        - {x: 32.5, y: -45}
+        - {x: 44.5, y: 3}
+        - {x: 44.5, y: 40}
+        - {x: 40.5, y: 45}
+    - name: Platform 2_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 108
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 44.5}
+        - {x: -37.5, y: -44.5}
+        - {x: 37.5, y: -44.5}
+        - {x: 37.5, y: 44.5}
+    - name: Platform 2_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 117
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 44.5}
+        - {x: -44, y: -44.5}
+        - {x: 44, y: -44.5}
+        - {x: 44, y: 44.5}
+    - name: Platform 2_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 119
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 44.5}
+        - {x: -37.5, y: -44.5}
+        - {x: 37.5, y: -44.5}
+        - {x: 37.5, y: 44.5}
+    - name: Platform 2_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 44.5}
+        - {x: -44, y: -44.5}
+        - {x: 44, y: -44.5}
+        - {x: 44, y: 44.5}
+    - name: Platform 2_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 44.5}
+        - {x: -44, y: -44.5}
+        - {x: 44, y: -44.5}
+        - {x: 44, y: 44.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
