@@ -1,36 +1,75 @@
 fileFormatVersion: 2
 guid: a34aa527a78df914190262ccca341fec
-timeCreated: 1465656892
-licenseType: Store
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Flame_0
-    21300002: Flame_1
-    21300004: Flame_2
-    21300006: Flame_3
-    21300008: Flame_4
-    21300010: Flame_5
-    21300012: Flame_6
-    21300014: Flame_7
-    21300016: Flame_8
-    21300018: Flame_9
-    21300020: Flame_10
-    21300022: Flame_11
-    21300024: Flame_12
-    21300026: Flame_13
-    21300028: Flame_14
-    21300030: Flame_15
-    21300032: Flame_16
-    21300034: Flame_17
-    21300036: Flame_18
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Flame_0
+  - first:
+      213: 21300002
+    second: Flame_1
+  - first:
+      213: 21300004
+    second: Flame_2
+  - first:
+      213: 21300006
+    second: Flame_3
+  - first:
+      213: 21300008
+    second: Flame_4
+  - first:
+      213: 21300010
+    second: Flame_5
+  - first:
+      213: 21300012
+    second: Flame_6
+  - first:
+      213: 21300014
+    second: Flame_7
+  - first:
+      213: 21300016
+    second: Flame_8
+  - first:
+      213: 21300018
+    second: Flame_9
+  - first:
+      213: 21300020
+    second: Flame_10
+  - first:
+      213: 21300022
+    second: Flame_11
+  - first:
+      213: 21300024
+    second: Flame_12
+  - first:
+      213: 21300026
+    second: Flame_13
+  - first:
+      213: 21300028
+    second: Flame_14
+  - first:
+      213: 21300030
+    second: Flame_15
+  - first:
+      213: 21300032
+    second: Flame_16
+  - first:
+      213: 21300034
+    second: Flame_17
+  - first:
+      213: 21300036
+    second: Flame_18
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -39,37 +78,60 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: Flame_0
+    - serializedVersion: 2
+      name: Flame_0
       rect:
         serializedVersion: 2
         x: 61
@@ -79,12 +141,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 134}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 134}
-    - name: Flame_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_1
       rect:
         serializedVersion: 2
         x: 182
@@ -94,12 +162,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50.5, y: 134}
-        - {x: -50.5, y: 0}
-        - {x: 50.5, y: 0}
-        - {x: 50.5, y: 134}
-    - name: Flame_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_2
       rect:
         serializedVersion: 2
         x: 303
@@ -109,12 +183,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50.5, y: 134}
-        - {x: -50.5, y: 0}
-        - {x: 50.5, y: 0}
-        - {x: 50.5, y: 134}
-    - name: Flame_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_3
       rect:
         serializedVersion: 2
         x: 425
@@ -124,12 +204,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 134}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 134}
-    - name: Flame_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_4
       rect:
         serializedVersion: 2
         x: 546
@@ -139,12 +225,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 134}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 134}
-    - name: Flame_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_5
       rect:
         serializedVersion: 2
         x: 667
@@ -154,12 +246,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 134}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 134}
-    - name: Flame_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_6
       rect:
         serializedVersion: 2
         x: 61
@@ -169,12 +267,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 134}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 134}
-    - name: Flame_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_7
       rect:
         serializedVersion: 2
         x: 182
@@ -184,12 +288,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50.5, y: 134}
-        - {x: -50.5, y: 0}
-        - {x: 50.5, y: 0}
-        - {x: 50.5, y: 134}
-    - name: Flame_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_8
       rect:
         serializedVersion: 2
         x: 303
@@ -199,12 +309,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50.5, y: 134}
-        - {x: -50.5, y: 0}
-        - {x: 50.5, y: 0}
-        - {x: 50.5, y: 134}
-    - name: Flame_9
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_9
       rect:
         serializedVersion: 2
         x: 425
@@ -214,12 +330,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 134}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 134}
-    - name: Flame_10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_10
       rect:
         serializedVersion: 2
         x: 546
@@ -229,12 +351,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 134}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 134}
-    - name: Flame_11
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_11
       rect:
         serializedVersion: 2
         x: 667
@@ -244,12 +372,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 134}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 134}
-    - name: Flame_12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_12
       rect:
         serializedVersion: 2
         x: 0
@@ -259,12 +393,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 133}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 133}
-    - name: Flame_13
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_13
       rect:
         serializedVersion: 2
         x: 122
@@ -274,12 +414,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 133}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 133}
-    - name: Flame_14
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_14
       rect:
         serializedVersion: 2
         x: 243
@@ -289,12 +435,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 133}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 133}
-    - name: Flame_15
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_15
       rect:
         serializedVersion: 2
         x: 364
@@ -304,12 +456,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 133}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 133}
-    - name: Flame_16
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_16
       rect:
         serializedVersion: 2
         x: 485
@@ -319,12 +477,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 133}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 133}
-    - name: Flame_17
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_17
       rect:
         serializedVersion: 2
         x: 607
@@ -334,12 +498,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 133}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 133}
-    - name: Flame_18
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flame_18
       rect:
         serializedVersion: 2
         x: 728
@@ -349,13 +519,29 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -50, y: 133}
-        - {x: -50, y: 0}
-        - {x: 50, y: 0}
-        - {x: 50, y: 133}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

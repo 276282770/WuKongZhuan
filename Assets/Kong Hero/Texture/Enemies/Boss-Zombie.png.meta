@@ -1,30 +1,57 @@
 fileFormatVersion: 2
 guid: 90938ce449cae014097888586e2f4868
-timeCreated: 1465114542
-licenseType: Store
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Boss-Zombie_0
-    21300002: Boss-Zombie_1
-    21300004: Boss-Zombie_2
-    21300006: Boss-Zombie_3
-    21300008: Boss-Zombie_4
-    21300010: Boss-Zombie_5
-    21300012: Boss-Zombie_6
-    21300014: Boss-Zombie_7
-    21300016: Boss-Zombie_8
-    21300018: Boss-Zombie_9
-    21300020: Boss-Zombie_10
-    21300022: Boss-Zombie_11
-    21300024: Boss-Zombie_12
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Boss-Zombie_0
+  - first:
+      213: 21300002
+    second: Boss-Zombie_1
+  - first:
+      213: 21300004
+    second: Boss-Zombie_2
+  - first:
+      213: 21300006
+    second: Boss-Zombie_3
+  - first:
+      213: 21300008
+    second: Boss-Zombie_4
+  - first:
+      213: 21300010
+    second: Boss-Zombie_5
+  - first:
+      213: 21300012
+    second: Boss-Zombie_6
+  - first:
+      213: 21300014
+    second: Boss-Zombie_7
+  - first:
+      213: 21300016
+    second: Boss-Zombie_8
+  - first:
+      213: 21300018
+    second: Boss-Zombie_9
+  - first:
+      213: 21300020
+    second: Boss-Zombie_10
+  - first:
+      213: 21300022
+    second: Boss-Zombie_11
+  - first:
+      213: 21300024
+    second: Boss-Zombie_12
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -33,37 +60,60 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: Boss-Zombie_0
+    - serializedVersion: 2
+      name: Boss-Zombie_0
       rect:
         serializedVersion: 2
         x: 232
@@ -73,29 +123,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.15430737, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -0.68917847, y: 12}
-        - {x: 1.3108215, y: 7}
-        - {x: 2.3108215, y: 6}
-        - {x: 2.3108215, y: 3}
-        - {x: 5.3108215, y: 0}
-        - {x: 19.310822, y: 0}
-        - {x: 21.310822, y: 2}
-        - {x: 21.310822, y: 7}
-        - {x: 135.31082, y: 108}
-        - {x: 135.31082, y: 185}
-        - {x: 133.31082, y: 187}
-        - {x: 107.31082, y: 187}
-        - {x: -18.689178, y: 142}
-        - {x: -24.689178, y: 129}
-        - {x: -24.689178, y: 37}
-        - {x: -18.689178, y: 9}
-        - {x: -17.689178, y: 0}
-        - {x: 1.3108215, y: 0}
-        - {x: 2.3108215, y: 1}
-        - {x: 2.3108215, y: 5}
-        - {x: -0.68917847, y: 8}
-    - name: Boss-Zombie_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Zombie_1
       rect:
         serializedVersion: 2
         x: 435
@@ -105,16 +144,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.16210517, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 164.22739, y: 130}
-        - {x: -8.772614, y: 130}
-        - {x: -31.772614, y: 119}
-        - {x: -31.772614, y: 0}
-        - {x: 28.227386, y: 0}
-        - {x: 38.227386, y: 4}
-        - {x: 127.22739, y: 50}
-        - {x: 164.22739, y: 103}
-    - name: Boss-Zombie_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Zombie_2
       rect:
         serializedVersion: 2
         x: 654
@@ -124,15 +165,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.17577836, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -25.089233, y: 118}
-        - {x: -37.089233, y: 103}
-        - {x: -37.089233, y: 0}
-        - {x: 139.91077, y: 0}
-        - {x: 173.91077, y: 43}
-        - {x: 173.91077, y: 101}
-        - {x: 144.91077, y: 118}
-    - name: Boss-Zombie_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Zombie_3
       rect:
         serializedVersion: 2
         x: 886
@@ -142,15 +186,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.17324455, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -28.955933, y: 130}
-        - {x: -33.955933, y: 117}
-        - {x: -33.955933, y: 0}
-        - {x: 92.04407, y: 0}
-        - {x: 161.04407, y: 38}
-        - {x: 162.04407, y: 42}
-        - {x: 162.04407, y: 130}
-    - name: Boss-Zombie_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Zombie_4
       rect:
         serializedVersion: 2
         x: 66
@@ -160,22 +207,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.14755604, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 24.53859, y: 0}
-        - {x: 53.53859, y: 17}
-        - {x: 135.53859, y: 115}
-        - {x: 135.53859, y: 187}
-        - {x: 117.53859, y: 187}
-        - {x: 110.53859, y: 179}
-        - {x: 69.53859, y: 146}
-        - {x: -20.46141, y: 139}
-        - {x: -23.46141, y: 127}
-        - {x: -23.46141, y: 27}
-        - {x: -18.46141, y: 0}
-        - {x: 3.5385895, y: 0}
-        - {x: 3.5385895, y: 3}
-        - {x: 5.5385895, y: 0}
-    - name: Boss-Zombie_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Zombie_5
       rect:
         serializedVersion: 2
         x: 281
@@ -185,16 +228,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.11447655, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9.178162, y: 130}
-        - {x: -21.178162, y: 124}
-        - {x: -21.178162, y: 0}
-        - {x: 60.82184, y: 0}
-        - {x: 73.82184, y: 8}
-        - {x: 143.82184, y: 54}
-        - {x: 163.82184, y: 93}
-        - {x: 163.82184, y: 130}
-    - name: Boss-Zombie_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Zombie_6
       rect:
         serializedVersion: 2
         x: 489
@@ -204,16 +249,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.1231832, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -9.26709, y: 126}
-        - {x: -21.26709, y: 115}
-        - {x: -24.26709, y: 75}
-        - {x: -24.26709, y: 0}
-        - {x: 78.73291, y: 0}
-        - {x: 172.73291, y: 39}
-        - {x: 172.73291, y: 107}
-        - {x: 60.73291, y: 126}
-    - name: Boss-Zombie_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Zombie_7
       rect:
         serializedVersion: 2
         x: 720
@@ -223,13 +270,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.10660862, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -19.722595, y: 130}
-        - {x: -19.722595, y: 0}
-        - {x: 84.277405, y: 0}
-        - {x: 165.2774, y: 28}
-        - {x: 165.2774, y: 130}
-    - name: Boss-Zombie_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Zombie_8
       rect:
         serializedVersion: 2
         x: 0
@@ -239,16 +291,18 @@ TextureImporter:
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 25, y: 222}
-        - {x: 20, y: 195}
-        - {x: -65, y: 116}
-        - {x: -65, y: 68}
-        - {x: 2, y: 0}
-        - {x: 16, y: 0}
-        - {x: 65, y: 24}
-        - {x: 65, y: 222}
-    - name: Boss-Zombie_9
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Zombie_9
       rect:
         serializedVersion: 2
         x: 138
@@ -258,14 +312,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.8460493, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -172.59406, y: 135}
-        - {x: -172.59406, y: 100}
-        - {x: -86.594055, y: 0}
-        - {x: 31.405945, y: 0}
-        - {x: 31.405945, y: 76}
-        - {x: -43.594055, y: 135}
-    - name: Boss-Zombie_10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Zombie_10
       rect:
         serializedVersion: 2
         x: 349
@@ -275,18 +333,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.8058084, y: 0.17915286}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 45.246643, y: 49.66777}
-        - {x: 18.246643, y: 65.66777}
-        - {x: -130.75336, y: 65.66777}
-        - {x: -187.75336, y: 20.66777}
-        - {x: -187.75336, y: -11.33223}
-        - {x: -184.75336, y: -14.33223}
-        - {x: -155.75336, y: -14.33223}
-        - {x: -108.75336, y: -11.33223}
-        - {x: 7.246643, y: -9.33223}
-        - {x: 45.246643, y: 20.66777}
-    - name: Boss-Zombie_11
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Zombie_11
       rect:
         serializedVersion: 2
         x: 589
@@ -296,15 +354,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.78504485, y: 0.18374652}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -132.41077, y: 63.66777}
-        - {x: -188.41077, y: 39.66777}
-        - {x: -188.41077, y: -14.33223}
-        - {x: -8.410767, y: -14.33223}
-        - {x: 51.589233, y: -7.3322296}
-        - {x: 51.589233, y: 50.66777}
-        - {x: 37.589233, y: 63.66777}
-    - name: Boss-Zombie_12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss-Zombie_12
       rect:
         serializedVersion: 2
         x: 840
@@ -314,18 +375,29 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.7654589, y: 0.16843432}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 21.228027, y: 64.86212}
-        - {x: -150.77197, y: 64.86212}
-        - {x: -160.77197, y: 62.86212}
-        - {x: -186.77197, y: 13.862122}
-        - {x: -186.77197, y: -13.137878}
-        - {x: -78.77197, y: -13.137878}
-        - {x: 46.228027, y: -6.1378784}
-        - {x: 57.228027, y: -2.1378784}
-        - {x: 57.228027, y: 18.862122}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

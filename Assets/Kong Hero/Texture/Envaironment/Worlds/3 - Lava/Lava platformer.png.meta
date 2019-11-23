@@ -1,33 +1,66 @@
 fileFormatVersion: 2
 guid: 863feb2b70ed53d43a8bb5d4fab8fa67
-timeCreated: 1465485295
-licenseType: Store
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Lava platformer_0
-    21300002: Lava platformer_1
-    21300004: Lava platformer_2
-    21300006: Lava platformer_3
-    21300008: Lava platformer_4
-    21300010: Lava platformer_5
-    21300012: Lava platformer_6
-    21300014: Lava platformer_7
-    21300016: Lava platformer_8
-    21300018: Lava platformer_9
-    21300020: Lava platformer_10
-    21300022: Lava platformer_11
-    21300024: Lava platformer_12
-    21300026: Lava platformer_13
-    21300028: Lava platformer_14
-    21300030: Lava platformer_15
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Lava platformer_0
+  - first:
+      213: 21300002
+    second: Lava platformer_1
+  - first:
+      213: 21300004
+    second: Lava platformer_2
+  - first:
+      213: 21300006
+    second: Lava platformer_3
+  - first:
+      213: 21300008
+    second: Lava platformer_4
+  - first:
+      213: 21300010
+    second: Lava platformer_5
+  - first:
+      213: 21300012
+    second: Lava platformer_6
+  - first:
+      213: 21300014
+    second: Lava platformer_7
+  - first:
+      213: 21300016
+    second: Lava platformer_8
+  - first:
+      213: 21300018
+    second: Lava platformer_9
+  - first:
+      213: 21300020
+    second: Lava platformer_10
+  - first:
+      213: 21300022
+    second: Lava platformer_11
+  - first:
+      213: 21300024
+    second: Lava platformer_12
+  - first:
+      213: 21300026
+    second: Lava platformer_13
+  - first:
+      213: 21300028
+    second: Lava platformer_14
+  - first:
+      213: 21300030
+    second: Lava platformer_15
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -36,37 +69,60 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: Lava platformer_0
+    - serializedVersion: 2
+      name: Lava platformer_0
       rect:
         serializedVersion: 2
         x: 0
@@ -76,16 +132,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -42, y: 45.5}
-        - {x: -45, y: 41.5}
-        - {x: -45, y: -14.5}
-        - {x: -44, y: -16.5}
-        - {x: -32, y: -34.5}
-        - {x: -6, y: -45.5}
-        - {x: 45, y: -45.5}
-        - {x: 45, y: 45.5}
-    - name: Lava platformer_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_1
       rect:
         serializedVersion: 2
         x: 122
@@ -95,12 +153,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44.5, y: 45.5}
-        - {x: -44.5, y: -45.5}
-        - {x: 44.5, y: -45.5}
-        - {x: 44.5, y: 45.5}
-    - name: Lava platformer_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_2
       rect:
         serializedVersion: 2
         x: 225
@@ -110,14 +174,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -45, y: 45.5}
-        - {x: -45, y: -45.5}
-        - {x: 20, y: -45.5}
-        - {x: 45, y: -34.5}
-        - {x: 45, y: 44.5}
-        - {x: 43, y: 45.5}
-    - name: Lava platformer_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_3
       rect:
         serializedVersion: 2
         x: 19
@@ -127,12 +195,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44, y: 44.5}
-        - {x: -44, y: -44.5}
-        - {x: 44, y: -44.5}
-        - {x: 44, y: 44.5}
-    - name: Lava platformer_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_4
       rect:
         serializedVersion: 2
         x: 116
@@ -142,12 +216,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44, y: 44.5}
-        - {x: -44, y: -44.5}
-        - {x: 44, y: -44.5}
-        - {x: 44, y: 44.5}
-    - name: Lava platformer_5
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_5
       rect:
         serializedVersion: 2
         x: 222
@@ -157,13 +237,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44, y: 44.5}
-        - {x: -44, y: -44.5}
-        - {x: 44, y: -44.5}
-        - {x: 44, y: 4.5}
-        - {x: -35, y: 44.5}
-    - name: Lava platformer_6
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_6
       rect:
         serializedVersion: 2
         x: 328
@@ -173,13 +258,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 39, y: 22}
-        - {x: -44, y: -20}
-        - {x: -44, y: -22}
-        - {x: 44, y: -22}
-        - {x: 44, y: 22}
-    - name: Lava platformer_7
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_7
       rect:
         serializedVersion: 2
         x: 325
@@ -189,13 +279,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44, y: 22}
-        - {x: -44, y: -22}
-        - {x: 44, y: -22}
-        - {x: 44, y: -19}
-        - {x: -38, y: 22}
-    - name: Lava platformer_8
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_8
       rect:
         serializedVersion: 2
         x: 12
@@ -205,12 +300,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44, y: 44.5}
-        - {x: -44, y: -44.5}
-        - {x: 44, y: -44.5}
-        - {x: 44, y: 44.5}
-    - name: Lava platformer_9
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_9
       rect:
         serializedVersion: 2
         x: 109
@@ -220,12 +321,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44, y: 44.5}
-        - {x: -44, y: -44.5}
-        - {x: 44, y: -44.5}
-        - {x: 44, y: 44.5}
-    - name: Lava platformer_10
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_10
       rect:
         serializedVersion: 2
         x: 216
@@ -235,13 +342,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -45, y: 44.5}
-        - {x: -45, y: -44.5}
-        - {x: 45, y: -44.5}
-        - {x: 45, y: 43.5}
-        - {x: 43, y: 44.5}
-    - name: Lava platformer_11
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_11
       rect:
         serializedVersion: 2
         x: 324
@@ -251,13 +363,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -45, y: 44.5}
-        - {x: -45, y: -41.5}
-        - {x: -38, y: -44.5}
-        - {x: 45, y: -44.5}
-        - {x: 45, y: 44.5}
-    - name: Lava platformer_12
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_12
       rect:
         serializedVersion: 2
         x: 1
@@ -267,13 +384,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 39, y: 45}
-        - {x: -44, y: 3}
-        - {x: -44, y: -45}
-        - {x: 44, y: -45}
-        - {x: 44, y: 45}
-    - name: Lava platformer_13
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_13
       rect:
         serializedVersion: 2
         x: 108
@@ -283,12 +405,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44, y: 44.5}
-        - {x: -44, y: -44.5}
-        - {x: 44, y: -44.5}
-        - {x: 44, y: 44.5}
-    - name: Lava platformer_14
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_14
       rect:
         serializedVersion: 2
         x: 220
@@ -298,12 +426,18 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44.5, y: 44.5}
-        - {x: -44.5, y: -44.5}
-        - {x: 44.5, y: -44.5}
-        - {x: 44.5, y: 44.5}
-    - name: Lava platformer_15
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lava platformer_15
       rect:
         serializedVersion: 2
         x: 330
@@ -313,14 +447,29 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -44, y: 44.5}
-        - {x: -45, y: 39.5}
-        - {x: -45, y: -44.5}
-        - {x: 45, y: -44.5}
-        - {x: 45, y: 44.5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

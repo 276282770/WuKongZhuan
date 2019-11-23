@@ -1,22 +1,33 @@
 fileFormatVersion: 2
 guid: b35793bb7d21b984f874475e7449ddfb
-timeCreated: 1464425291
-licenseType: Store
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Snail_0
-    21300002: Snail_1
-    21300004: Snail_2
-    21300006: Snail_3
-    21300008: Snail_4
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Snail_0
+  - first:
+      213: 21300002
+    second: Snail_1
+  - first:
+      213: 21300004
+    second: Snail_2
+  - first:
+      213: 21300006
+    second: Snail_3
+  - first:
+      213: 21300008
+    second: Snail_4
+  externalObjects: {}
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -25,37 +36,60 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: Snail_0
+    - serializedVersion: 2
+      name: Snail_0
       rect:
         serializedVersion: 2
         x: 0
@@ -65,15 +99,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.65300596, y: 0.27619758}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -68.401695, y: -23.619759}
-        - {x: -54.401695, y: -27.619759}
-        - {x: 40.598305, y: -27.619759}
-        - {x: 40.598305, y: 35.38024}
-        - {x: 11.598305, y: 72.38024}
-        - {x: -76.401695, y: 72.38024}
-        - {x: -76.401695, y: 15.380241}
-    - name: Snail_1
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snail_1
       rect:
         serializedVersion: 2
         x: 119
@@ -83,16 +120,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6517093, y: 0.28642714}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -76.9017, y: 71.357285}
-        - {x: -76.9017, y: -26.642714}
-        - {x: -63.901703, y: -28.642714}
-        - {x: 41.098297, y: -28.642714}
-        - {x: 41.098297, y: -18.642714}
-        - {x: 28.098297, y: 22.357286}
-        - {x: 14.098297, y: 66.357285}
-        - {x: -0.9017029, y: 71.357285}
-    - name: Snail_2
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snail_2
       rect:
         serializedVersion: 2
         x: 242
@@ -102,16 +141,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6560439, y: 0.28131235}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -29.413177, y: 71.86877}
-        - {x: -76.41318, y: 71.86877}
-        - {x: -77.41318, y: 70.86877}
-        - {x: -77.41318, y: 47.868767}
-        - {x: -57.413177, y: -28.131235}
-        - {x: 40.586823, y: -28.131235}
-        - {x: 40.586823, y: -11.131235}
-        - {x: 27.586823, y: 44.868767}
-    - name: Snail_3
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snail_3
       rect:
         serializedVersion: 2
         x: 410
@@ -121,15 +162,18 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.6517093, y: 0.28131235}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -76.9017, y: 71.86877}
-        - {x: -76.9017, y: 15.868765}
-        - {x: -69.9017, y: -26.131235}
-        - {x: -57.901703, y: -28.131235}
-        - {x: 41.098297, y: -28.131235}
-        - {x: 41.098297, y: 27.868765}
-        - {x: -5.901703, y: 71.86877}
-    - name: Snail_4
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snail_4
       rect:
         serializedVersion: 2
         x: 552
@@ -139,18 +183,29 @@ TextureImporter:
       alignment: 9
       pivot: {x: 0.5568305, y: 0.511477}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -23.080322, y: 25.89172}
-        - {x: -34.080322, y: 21.89172}
-        - {x: -35.080322, y: 17.89172}
-        - {x: -35.080322, y: -8.10828}
-        - {x: -17.080322, y: -27.10828}
-        - {x: 23.919678, y: -27.10828}
-        - {x: 27.919678, y: -24.10828}
-        - {x: 27.919678, y: 9.89172}
-        - {x: 14.919678, y: 25.89172}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
